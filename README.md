@@ -9,10 +9,15 @@ This project allows users to create and manage multiple bank accounts with funct
 The project is organized into the following files:
 
 ├── BankAccount.h // BankAccount class definition
+
 ├── BankAccount.cpp // BankAccount class implementation
+
 ├── BankSystem.h // BankSystem class definition
+
 ├── BankSystem.cpp // BankSystem class implementation
+
 ├── main.cpp // Program entry point and usage demonstration
+
 ├── README.md // Project documentation
 
 
